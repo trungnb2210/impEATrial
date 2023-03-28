@@ -1,0 +1,62 @@
+[
+    {
+        "name": "SCR Restaurant",
+        "checked": false,
+        "image": "../../../assets/scr.png",
+        "id": 1
+    },
+    {
+        "name": "h-Bar",
+        "checked": false,
+        "image": "../../../assets/h-bar.png",
+        "id": 2
+    },
+    {
+        "name": "Kimiko",
+        "checked": false,
+        "image": "../../../assets/kimiko.png",
+        "id": 3
+    },
+    {
+        "name": "Library Cafe",
+        "checked": false,
+        "image": "../../../assets/libary.png",
+        "id": 4
+    },
+    {
+        "name": "Eastside Bar",
+        "checked": false,
+        "image": "../../../assets/eastside.png",
+        "id": 5
+    },
+    {
+        "name": "Neo Pizza & Pasta",
+        "checked": false,
+        "image": "../../../assets/neopizza.png",
+        "id": 6
+    },
+    {
+        "name": "The Loud Bird",
+        "checked": false,
+        "image": "../../../assets/loud.png",
+        "id": 7
+    },
+    {
+        "name": "The Roastery",
+        "checked": false,
+        "image": "../../../assets/roastery.png",
+        "id": 8
+    },
+    {
+        "name": "Starbucks ",
+        "checked": false,
+        "image": "../../../assets/starbuck.png",
+        "id": 9
+    },
+    {
+        "name": "College Cafe",
+        "checked": false,
+        "image": "../../../assets/starbuck.png",
+        "id": 10
+    }
+]

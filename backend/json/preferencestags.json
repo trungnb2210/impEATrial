@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Sweet",
+        "type": "flavour",
+        "checked": false,
+        "id": 1
+    },
+    {
+        "name": "Savory",
+        "type": "flavour",
+        "checked": false,
+        "id": 2
+    },
+    {
+        "name": "Bitter",
+        "type": "flavour",
+        "checked": false,
+        "id": 3
+    },
+    {
+        "name": "Sour",
+        "type": "flavour",
+        "checked": false,
+        "id": 4
+    },
+    {
+        "name": "Crispy",
+        "type": "flavour",
+        "checked": false,
+        "id": 5
+    },
+    {
+        "name": "Spicy",
+        "type": "flavour",
+        "checked": false,
+        "id": 6
+    },
+    {
+        "name": "Oily",
+        "type": "flavour",
+        "checked": false,
+        "id": 7
+    },
+    {
+        "name": "Minty",
+        "type": "flavour",
+        "checked": false,
+        "id": 8
+    },
+    {
+        "name": "Pasta",
+        "type": "food",
+        "checked": false,
+        "id": 9
+    },
+    {
+        "name": "Rice",
+        "type": "food",
+        "checked": false,
+        "id": 10
+    },
+    {
+        "name": "Sandwich",
+        "type": "food",
+        "checked": false,
+        "id": 11
+    },
+    {
+        "name": "Curry",
+        "type": "food",
+        "checked": false,
+        "id": 12
+    },
+    {
+        "name": "Fries",
+        "type": "food",
+        "checked": false,
+        "id": 13
+    },
+    {
+        "name": "Katsu",
+        "type": "food",
+        "checked": false,
+        "id": 14
+    },
+    {
+        "name": "Steak",
+        "type": "food",
+        "checked": false,
+        "id": 15
+    },
+    {
+        "name": "Dumplings",
+        "type": "food",
+        "checked": false,
+        "id": 16
+    },
+    {
+        "name": "Teriyaki",
+        "type": "food",
+        "checked": false,
+        "id": 17
+    },
+    {
+        "name": "Salmon",
+        "type": "food",
+        "checked": false,
+        "id": 18
+    },
+    {
+        "name": "Meatballs",
+        "type": "food",
+        "checked": false,
+        "id": 19
+    },
+    {
+        "name": "Seaweed",
+        "type": "food",
+        "checked": false,
+        "id": 20
+    },
+    {
+        "name": "Dessert",
+        "type": "food",
+        "checked": false,
+        "id": 21
+    },
+    {
+        "name": "Cake",
+        "type": "food",
+        "checked": false,
+        "id": 22
+    },
+    {
+        "name": "Wings",
+        "type": "food",
+        "checked": false,
+        "id": 23
+    },
+    {
+        "name": "Hummus",
+        "type": "food",
+        "checked": false,
+        "id": 24
+    },
+    {
+        "name": "Salad",
+        "type": "food",
+        "checked": false,
+        "id": 25
+    },
+    {
+        "name": "Sausage",
+        "type": "food",
+        "checked": false,
+        "id": 26
+    },
+    {
+        "name": "Pastry",
+        "type": "food",
+        "checked": false,
+        "id": 27
+    },
+    {
+        "name": "Bread",
+        "type": "food",
+        "checked": false,
+        "id": 28
+    },
+    {
+        "name": "Burger",
+        "type": "food",
+        "checked": false,
+        "id": 29
+    },
+    {
+        "name": "Chicken",
+        "type": "food",
+        "checked": false,
+        "id": 30
+    },
+    {
+        "name": "Pizza",
+        "type": "food",
+        "checked": false,
+        "id": 31
+    },
+    {
+        "name": "Chilli",
+        "type": "food",
+        "checked": false,
+        "id": 32
+    },
+    {
+        "name": "Tortilla",
+        "type": "food",
+        "checked": false,
+        "id": 33
+    },
+    {
+        "name": "Squid",
+        "type": "food",
+        "checked": false,
+        "id": 34
+    },
+    {
+        "name": "Cheese",
+        "type": "food",
+        "checked": false,
+        "id": 35
+    },
+    {
+        "name": "Naan",
+        "type": "food",
+        "checked": false,
+        "id": 36
+    },
+    {
+        "name": "Baguette",
+        "type": "food",
+        "checked": false,
+        "id": 37
+    },
+    {
+        "name": "Fajita",
+        "type": "food",
+        "checked": false,
+        "id": 38
+    },
+    {
+        "name": "Muffin",
+        "type": "food",
+        "checked": false,
+        "id": 39
+    },
+    {
+        "name": "Bolognese",
+        "type": "food",
+        "checked": false,
+        "id": 40
+    },
+    {
+        "name": "Guacamole",
+        "type": "food",
+        "checked": false,
+        "id": 41
+    },
+    {
+        "name": "Tomato",
+        "type": "ingredients",
+        "checked": false,
+        "id": 42
+    },
+    {
+        "name": "Cheese",
+        "type": "ingredients",
+        "checked": false,
+        "id": 43
+    },
+    {
+        "name": "Chicken",
+        "type": "ingredients",
+        "checked": false,
+        "id": 44
+    },
+    {
+        "name": "Beef",
+        "type": "ingredients",
+        "checked": false,
+        "id": 45
+    },
+    {
+        "name": "Pork",
+        "type": "ingredients",
+        "checked": false,
+        "id": 46
+    },
+    {
+        "name": "Fish",
+        "type": "ingredients",
+        "checked": false,
+        "id": 47
+    },
+    {
+        "name": "Tofu",
+        "type": "ingredients",
+        "checked": false,
+        "id": 48
+    },
+    {
+        "name": "Dairy",
+        "type": "ingredients",
+        "checked": false,
+        "id": 49
+    },
+    {
+        "name": "Fruit",
+        "type": "ingredients",
+        "checked": false,
+        "id": 50
+    },
+    {
+        "name": "Vegetable",
+        "type": "ingredients",
+        "checked": false,
+        "id": 51
+    },
+    {
+        "name": "Wheat",
+        "type": "ingredients",
+        "checked": false,
+        "id": 52
+    },
+    {
+        "name": "Milk",
+        "type": "ingredients",
+        "checked": false,
+        "id": 53
+    },
+    {
+        "name": "Onion ",
+        "type": "ingredients",
+        "checked": false,
+        "id": 54
+    },
+    {
+        "name": "Nuts",
+        "type": "ingredients",
+        "checked": false,
+        "id": 55
+    },
+    {
+        "name": "Bread",
+        "type": "ingredients",
+        "checked": false,
+        "id": 56
+    },
+    {
+        "name": "Egg",
+        "type": "ingredients",
+        "checked": false,
+        "id": 57
+    },
+    {
+        "name": "Sugar",
+        "type": "ingredients",
+        "checked": false,
+        "id": 58
+    },
+    {
+        "name": "Vanilla",
+        "type": "ingredients",
+        "checked": false,
+        "id": 59
+    },
+    {
+        "name": "Potato",
+        "type": "ingredients",
+        "checked": false,
+        "id": 60
+    },
+    {
+        "name": "Chilli",
+        "type": "ingredients",
+        "checked": false,
+        "id": 61
+    },
+    {
+        "name": "Beans",
+        "type": "ingredients",
+        "checked": false,
+        "id": 62
+    },
+    {
+        "name": "Corn",
+        "type": "ingredients",
+        "checked": false,
+        "id": 63
+    },
+    {
+        "name": "Mushroom",
+        "type": "ingredients",
+        "checked": false,
+        "id": 64
+    },
+    {
+        "name": "Lamb",
+        "type": "ingredients",
+        "checked": false,
+        "id": 65
+    },
+    {
+        "name": "Tuna",
+        "type": "ingredients",
+        "checked": false,
+        "id": 66
+    },
+    {
+        "name": "Mayo",
+        "type": "ingredients",
+        "checked": false,
+        "id": 67
+    },
+    {
+        "name": "Avocado",
+        "type": "ingredients",
+        "checked": false,
+        "id": 68
+    },
+    {
+        "name": "Japanese",
+        "type": "cuisine",
+        "checked": false,
+        "id": 69
+    },
+    {
+        "name": "Chinese",
+        "type": "cuisine",
+        "checked": false,
+        "id": 70
+    },
+    {
+        "name": "Thai",
+        "type": "cuisine",
+        "checked": false,
+        "id": 71
+    },
+    {
+        "name": "Vietnamese",
+        "type": "cuisine",
+        "checked": false,
+        "id": 72
+    },
+    {
+        "name": "English",
+        "type": "cuisine",
+        "checked": false,
+        "id": 73
+    },
+    {
+        "name": "Italian",
+        "type": "cuisine",
+        "checked": false,
+        "id": 74
+    },
+    {
+        "name": "French",
+        "type": "cuisine",
+        "checked": false,
+        "id": 75
+    },
+    {
+        "name": "Spanish",
+        "type": "cuisine",
+        "checked": false,
+        "id": 76
+    },
+    {
+        "name": "Indian",
+        "type": "cuisine",
+        "checked": false,
+        "id": 77
+    },
+    {
+        "name": "Mexican",
+        "type": "cuisine",
+        "checked": false,
+        "id": 78
+    },
+    {
+        "name": "Fusion",
+        "type": "cuisine",
+        "checked": false,
+        "id": 79
+    },
+    {
+        "name": "Cantonese",
+        "type": "cuisine",
+        "checked": false,
+        "id": 80
+    },
+    {
+        "name": "Korean",
+        "type": "cuisine",
+        "checked": false,
+        "id": 81
+    },
+    {
+        "name": "Middle-Eastern",
+        "type": "cuisine",
+        "checked": false,
+        "id": 82
+    },
+    {
+        "name": "American",
+        "type": "cuisine",
+        "checked": false,
+        "id": 83
+    },
+    {
+        "name": "Asian",
+        "type": "cuisine",
+        "checked": false,
+        "id": 84
+    },
+    {
+        "name": "Lemon",
+        "type": "drink",
+        "checked": false,
+        "id": 85
+    },
+    {
+        "name": "Orange",
+        "type": "drink",
+        "checked": false,
+        "id": 86
+    },
+    {
+        "name": "Fizzy",
+        "type": "drink",
+        "checked": false,
+        "id": 87
+    },
+    {
+        "name": "Juice",
+        "type": "drink",
+        "checked": false,
+        "id": 88
+    },
+    {
+        "name": "Strawberry",
+        "type": "drink",
+        "checked": false,
+        "id": 89
+    },
+    {
+        "name": "Mango",
+        "type": "drink",
+        "checked": false,
+        "id": 90
+    },
+    {
+        "name": "Water",
+        "type": "drink",
+        "checked": false,
+        "id": 91
+    },
+    {
+        "name": "Apple",
+        "type": "drink",
+        "checked": false,
+        "id": 92
+    },
+    {
+        "name": "Energy",
+        "type": "drink",
+        "checked": false,
+        "id": 93
+    },
+    {
+        "name": "Tea",
+        "type": "drink",
+        "checked": false,
+        "id": 94
+    },
+    {
+        "name": "Coffee",
+        "type": "drink",
+        "checked": false,
+        "id": 95
+    },
+    {
+        "name": "Sweet",
+        "type": "drink",
+        "checked": false,
+        "id": 96
+    },
+    {
+        "name": "Bitter",
+        "type": "drink",
+        "checked": false,
+        "id": 97
+    },
+    {
+        "name": "Sour",
+        "type": "drink",
+        "checked": false,
+        "id": 98
+    },
+    {
+        "name": "Cold",
+        "type": "drink",
+        "checked": false,
+        "id": 99
+    },
+    {
+        "name": "Hot",
+        "type": "drink",
+        "checked": false,
+        "id": 100
+    },
+    {
+        "name": "Chocolate",
+        "type": "drink",
+        "checked": false,
+        "id": 101
+    },
+    {
+        "name": "Sugarless",
+        "type": "drink",
+        "checked": false,
+        "id": 102
+    },
+    {
+        "name": "Raspberry",
+        "type": "drink",
+        "checked": false,
+        "id": 103
+    },
+    {
+        "name": "Grapefruit",
+        "type": "drink",
+        "checked": false,
+        "id": 104
+    },
+    {
+        "name": "Fruity",
+        "type": "drink",
+        "checked": false,
+        "id": 105
+    }
+]
